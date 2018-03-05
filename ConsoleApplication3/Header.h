@@ -1,0 +1,13 @@
+int pifagor(int *katet1, int *katet2);
+void rasstoyanie(double *x1, double *x2, double *y1, double *y2);
+//int f(int *a, int *b);
+//int f(int *c, int *b);
+void swap(int *a, int *b);
+void drobi(int*a, int *b);
+void ZappMass(int*m, int*val);
+void printMass(int *m, int *val);
+void maxMin(int*m, int*val);
+void copyMass(int *m, int(*copymass)[4], int *val2);
+void sortirovkaMass2(int(*mass)[4], int *val);
+void printMass2(int(*mass)[4], int*val);
+void chet(int *mass, int*val);
